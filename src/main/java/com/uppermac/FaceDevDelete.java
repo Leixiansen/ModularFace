@@ -16,4 +16,6 @@ public interface FaceDevDelete {
     void HKCameraDelete(Map<String, String> modelMap, TbCompanyUser companyUser);
 
     void ssssss();
+
+    void dddddddd();
 }
