@@ -15,4 +15,5 @@ public interface FaceDevDelete {
     //海康摄像头删除
     void HKCameraDelete(Map<String, String> modelMap, TbCompanyUser companyUser);
 
+    void ssssss();
 }
